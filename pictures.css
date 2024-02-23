@@ -1,0 +1,42 @@
+header { 
+    background-color: grey;
+    height: 50pt;
+
+}
+li {
+    float: left;
+    margin: 20px;
+    display: block;
+    width: 40pt;
+    height: 30;
+}
+a {
+    color: #FAEBD7;
+}
+a:hover {
+    color: #E9967A;
+}
+body {
+    background-color: #4169E1;
+}
+img {
+    width: 250px;
+    height: 450px;
+    padding: 80px;
+
+}
+h1 {
+    display: block;
+    text-align: center;
+    font-size: 60px;
+    color: black;
+    -webkit-text-stroke-color:antiquewhite;
+    -webkit-text-stroke-width: 1px;
+}
+h2 {
+    color:black;
+    font-size: 30px;
+    text-align:center;
+    -webkit-text-stroke-color:antiquewhite;
+    -webkit-text-stroke-width: .6px;
+}

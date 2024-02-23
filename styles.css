@@ -1,0 +1,45 @@
+header { 
+    background-color: grey;
+    height: 50pt;
+
+}
+li {
+    float: left;
+    margin: 20px;
+    display: block;
+    width: 40pt;
+    height: 30;
+}
+a {
+    color: #FAEBD7;
+}
+a:hover {
+    color: #E9967A;
+}
+body { 
+    background-image: url(https://assets3.thrillist.com/v1/image/2839340/1584x1056/scale;webp=auto;jpeg_quality=60;progressive.jpg);
+    background-size: 1290px;
+}
+h1 {
+    display: block;
+    text-align: center;
+    font-size: 60px;
+    color: black;
+    -webkit-text-stroke-color:antiquewhite;
+    -webkit-text-stroke-width: 1px;
+}
+section {
+    padding-left: 190px;
+    padding-right: 190px;
+    margin: 90px;    
+}
+p {
+    color:black;
+    font-size: 35px;
+    -webkit-text-stroke-color:antiquewhite;
+    -webkit-text-stroke-width: .6px;
+}  
+footer {
+    background-color: grey;
+    height: 50pt;
+}
