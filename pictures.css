@@ -40,3 +40,7 @@ h2 {
     -webkit-text-stroke-color:antiquewhite;
     -webkit-text-stroke-width: .6px;
 }
+footer {
+    background-color: grey;
+    height: 50pt;
+}
